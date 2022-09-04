@@ -5,3 +5,4 @@ New owner
 Creating Hello file command
 execute command
 Executing sccript
+Multiple permissions command
