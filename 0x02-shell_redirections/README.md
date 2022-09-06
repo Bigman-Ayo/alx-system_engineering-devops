@@ -24,3 +24,4 @@ shell script that creates a file
 a script that duplicates the last line of the file iacta
  a script that counts the number of directories and sub-directories in the current directory.
  a script that takes a list of words as input and prints only words that appear exactly once.
+the number of lines that contain the pattern “bin” in the file /etc/passwd
