@@ -19,3 +19,4 @@ Create a script that takes a list of words as input and prints only words that a
 Display lines containing the pattern “root” from the file /etc/passwd
 Display the number of lines that contain the pattern “bin” in the file /etc/passwd
 a script that displays the third line of the file iacta
+shell script that creates a file
